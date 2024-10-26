@@ -4,7 +4,7 @@ Este proyecto implementa un servicio de producción de mensajes utilizando [Nest
 
 Esta implementación se realiza de forma sencilla para dar una explicación clara de cómo realizarla. No se profundiza en carácteristicas de kafka ni en definiciones de tipos de datos para los mensajes que se consumen o se producen, ni se implementan varios consumer a diferentes topic.
 
-Si deseas ver una implementación más detallada y completa de kafka en nestjs, pueden ver mi otro proyecto de nestjs con kafka [aquí]()
+Si deseas ver una implementación más detallada y completa de kafka en nestjs, pueden ver mi otro proyecto de nestjs con kafka [aquí](https://github.com/Detox-923/kafka-nestjs-2)
 
 ## Descripción del Proyecto
 
