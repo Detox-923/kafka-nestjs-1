@@ -34,3 +34,9 @@ La implementación del servicio se basa en la documentación oficial de NestJS, 
 ## Terminal al ejecutar
 
 ![Terminal](./img-readme/ref1.png)
+
+# Video de Referencia
+
+Para una guía visual, puedes consultar el video donde cree este proyecto en YouTube:
+
+[![Video de referencia](https://img.youtube.com/vi/QCaHilU1ELM/0.jpg)](https://www.youtube.com/watch?v=QCaHilU1ELM)
